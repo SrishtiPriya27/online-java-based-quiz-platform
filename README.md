@@ -26,6 +26,8 @@ frontend/
      ├─ main.jsx
      ├─ App.jsx
      └─ components/        # Login, Dashboard(s), QuizList, QuizAttempt, Results
+backend/
+    
 ```
 
 ## 🔁 Development (Local)
@@ -81,14 +83,3 @@ These are only for local/demo usage. Make sure to remove any hardcoded credentia
 ## 📘 Contributing
 - Fork and open a PR against the `main` branch.
 - Please run `npm install` and `npm run dev` to validate changes locally before submitting a PR.
-
-## 📄 License
-Add your license here (e.g., MIT) or follow your project's licensing policy.
-
----
-
-If you'd like, I can also:
-- Add a `.env.example` and update `vite.config.js` to use `VITE_API_URL` (or similar) for clearer environment configuration.
-- Update `Login.jsx` to use a relative/proxied endpoint instead of the absolute `http://localhost:3000/api/login` URL.
-
-Let me know how you'd like to proceed.
