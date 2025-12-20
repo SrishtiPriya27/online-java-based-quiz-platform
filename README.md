@@ -91,4 +91,9 @@ If you'd like, I can also:
 - Add a `.env.example` and update `vite.config.js` to use `VITE_API_URL` (or similar) for clearer environment configuration.
 - Update `Login.jsx` to use a relative/proxied endpoint instead of the absolute `http://localhost:3000/api/login` URL.
 
+---
+
+## Backend (Java Servlet) Update
+The backend has been updated to support a Java 21 Servlet-based implementation. See `backend/README.md` for details on how to build, deploy, and configure the backend (Tomcat 10.1+, MySQL database and JDBC/Hikari configuration).
+
 Let me know how you'd like to proceed.
