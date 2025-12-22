@@ -7,7 +7,7 @@ It supports different user roles such as Admin, Quiz Creator, and Participant.
 The application is built using Java, JSP, Servlets, and MySQL, and runs on Apache Tomcat.
 
 🏗️ Project Structure
-
+```bash
 quiz-platform
 │
 ├── src
@@ -63,7 +63,7 @@ quiz-platform
 │
 ├── pom.xml
 └── README.md
-
+```
 📂 Folder Explanation
 
 dao → Handles all database operations
