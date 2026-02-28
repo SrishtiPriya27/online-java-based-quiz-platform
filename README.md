@@ -122,4 +122,4 @@ http://localhost:8081/quiz-platform/login.jsp
 👩‍🎓 Author
  Srishti Priya(Team Leader)
  Swarnika Singh(Member)
- Khushi Kumari(Member)
+ Khushi Sahu(Member)
